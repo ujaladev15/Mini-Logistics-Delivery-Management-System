@@ -1,4 +1,4 @@
-# SwiftRoute — Mini Logistics & Delivery Management System
+# Mini Logistics & Delivery Management System
 
 A full-stack logistics platform with role-based access for Customers, Drivers, and Admins.
 
