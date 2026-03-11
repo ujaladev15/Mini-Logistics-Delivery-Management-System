@@ -42,7 +42,7 @@
 - [Environment Variables](#-environment-variables)
 - [Security](#-security)
 - [Switching Databases](#-switching-to-mysql--postgresql)
-- [License](#-license)
+
 
 ---
 
@@ -61,8 +61,6 @@ The system has three distinct user roles, each with their own dashboard and perm
 | 👨‍💻 **Admin** | All orders across all customers | Assign drivers to pending orders, monitor stats |
 
 <br/>
-
-> Think of it as a simplified internal tool used by companies like Dunzo, Porter, or Delhivery to coordinate their delivery operations.
 
 ---
 
@@ -855,6 +853,5 @@ Same `.env` changes above, but set `DB_CLIENT=mysql2` and `DB_PORT=3306`.
 
 <br/>
 
-⭐ If you found this project helpful, please consider giving it a star!
 
 </div>
